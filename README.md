@@ -50,4 +50,3 @@
 > - Install Tomcat;
 > - Edit configurations your local Tomcat server;
 > - Run the project.
-
