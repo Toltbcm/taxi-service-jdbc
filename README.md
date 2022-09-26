@@ -15,11 +15,11 @@
 > - Service layer - responsible for the business logic of the application;
 > - Dao layer - responsible for performing database operations (CRUD operations).
 
-## Futures:
+## Features:
 
-> - Register, login, logout;
-> - Create and delete all existing models;
-> - Display all existing models;
+> - Register, log in/out;
+> - Create and delete cars/manufacturers/drivers;
+> - Display cars/manufacturers/drivers;
 > - Add a driver to car;
 > - Display all cars of the logged-in use;
 
